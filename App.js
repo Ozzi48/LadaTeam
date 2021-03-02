@@ -35,6 +35,10 @@ export default class App extends React.Component {
                     label: 'Instagram/TikTok, 9:16',
                     value: '9:16',
                 },
+                                {
+                    label: 'Instagram/TikTok, 9:16',
+                    value: '9:16',
+                }
             ],
         };
     }
