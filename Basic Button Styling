@@ -4,6 +4,7 @@
   color: white;
   padding: 15px 32px;
   text-align: center;
+  font-weigth: "bold";
   
   random texts
   
