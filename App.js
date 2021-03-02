@@ -2,6 +2,7 @@ import React from 'react';
 import { Alert, Text, TextInput, StyleSheet, View } from 'react-native';
 import RNPickerSelect from 'react-native-picker-select';
 import {ComponentName} from './components/screen10';
+import {ComponentName} from './components/screen11';
 
 export default class App extends React.Component {
 
